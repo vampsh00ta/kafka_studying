@@ -1,0 +1,31 @@
+[
+
+
+  {
+    "model": "api.items",
+    "id": 1,
+    "fields": {
+       "price": 123,
+      "quantity": 2000000,
+      "name": "jopa"
+    }
+  },
+  {
+    "model": "api.items",
+    "id": 2,
+    "fields": {
+       "price": 4321,
+      "quantity": 1000000,
+      "name": "slatt"
+    }
+  },
+  {
+    "model": "api.items",
+    "id": 3,
+    "fields": {
+       "price": 1999,
+      "quantity": 3000000,
+      "name": "slime"
+    }
+  }
+]
